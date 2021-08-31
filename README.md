@@ -5,7 +5,7 @@
 - 2021.09.01. ~ 2021.12.31.
 
 ## 규칙
-- [programmers](https://programmers.co.kr/learn/courses/30/lessons/17682) 사이트의 알고리즘 문제를 푸는 것을 목적으로 합니다.
+- [programmers](https://programmers.co.kr/) 사이트의 알고리즘 문제를 푸는 것을 목적으로 합니다.
 - C/C++ 언어를 사용할 것을 권장합니다.(다른 언어도 상관없음)
 - 매주 1문제는 꼭 풀어야 하며 2문제를 목표로 합니다.(문제 난이도는 상관 없음)
 
