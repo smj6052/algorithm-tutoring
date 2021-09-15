@@ -7,6 +7,7 @@
 ## 규칙
 - [programmers](https://programmers.co.kr/) 사이트의 알고리즘 문제를 푸는 것을 목적으로 합니다.
 - C/C++ 언어를 사용할 것을 권장합니다.(다른 언어도 상관없음)
+- 시작할 때, 본인 이름 디렉토리를 만들고 그 안에 소스코드를 넣어주세요.
 - 매주 1문제는 꼭 풀어야 하며 2문제를 목표로 합니다.(문제 난이도는 상관 없음)
 
 ### 나머지 규칙은 [Wiki](https://github.com/kingyong9169/algorithm-tutoring/wiki)를 참고하세요.
