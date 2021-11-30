@@ -9,7 +9,6 @@ int solution(int n, vector<int> lost, vector<int> reserve) {
     //테스트 결과 계속 오류가 뜸 >> 학생들의 번호를 오름차순으로 준다는 조건이 없었음
     sort(lost.begin(), lost.end());
     sort(reserve.begin(), reserve.end());
-
     for (int i = 0; i < lost.size(); i++) {
         for (int j = 0; j < reserve.size(); j++) {
             if (lost.at(i) == reserve[j]) {    //도난당한 사람이 여벌이 존재할 경우
@@ -19,7 +18,6 @@ int solution(int n, vector<int> lost, vector<int> reserve) {
             }
         }
     }
-
     //도난당한 체육복만큼 반복
     for (int i = 0; i < lost.size(); i++) {
         if (lost[i] == 0)  continue;   //도난당한 사람이 여벌 체육복이 있는 경우

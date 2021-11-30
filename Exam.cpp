@@ -23,7 +23,7 @@ vector<int> solution(vector<int> answers) {
     return answer;
 }
 
-//처음 답안
+// 처음 답안
 // vector<int> solution(vector<int> answers) {
 //     vector<int> answer;
 //     vector<int> score(3);
