@@ -2,6 +2,7 @@
 #include <algorithm>
 using namespace std;
 
+// 수정답안
 vector<int> solution(vector<int> answers) {
     vector<int> answer;
     vector<int> score(3);
